@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 ¡Hola! Soy un apasionado del desarrollo de software, con especial interés en crear soluciones multiplataforma que mejoren la eficiencia, optimicen procesos y ofrezcan una excelente experiencia de usuario.<br><br>Actualmente formo parte del equipo de GatewayTIC SL como Desarrollador de Software, donde aplico mis conocimientos en programación, automatización y administración de sistemas para construir soluciones innovadoras y escalables.<br><br>🧠 Sobre mí<br>💡 Enfoque en el desarrollo eficiente y adaptable a diferentes dispositivos y plataformas.<br><br>🚀 Interés constante por aprender nuevas tecnologías y enfrentar nuevos desafíos.<br><br>🤝 Abierto a colaborar en proyectos que generen impacto real.<br>
 
 
