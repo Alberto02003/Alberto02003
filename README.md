@@ -17,6 +17,14 @@ Actualmente trabajo en proyectos personales y en el aprendizaje continuo de nuev
 - **[PcMonitor-Dockers](https://github.com/Alberto02003/PcMonitor-Dockers)** — Aplicación de escritorio para monitorizar servidores Linux remotos en tiempo real vía SSH. Construida con React 19 + Tauri 2 (Rust), muestra métricas del sistema, gestión de contenedores Docker, terminal SSH integrada y almacenamiento cifrado de credenciales.
 
 ---
+
+
+## 🔭 Proyectos open source en los que he contribuido contribuyo
+
+- **[Dolphin](https://github.com/Alberto02003/Dolphin.git)** — Modelo multimodal de ByteDance para análisis de documentos mediante un enfoque "análisis-luego-parseo". Utiliza Vision Language Models basados en Swin Transformer para extraer texto, tablas, fórmulas y figuras de imágenes de documentos, generando salidas en JSON y Markdown.Contribuyendo con una interfaz web en Flask.
+
+
+---
 ## 🌐 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-martin-morin-b5aa7830a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alberto.martinmorin.job@gmail.com) [![Web](https://img.shields.io/badge/Web-000000?logo=googlechrome&logoColor=white)](https://alberto-martin.com)
