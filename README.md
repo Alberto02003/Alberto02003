@@ -19,7 +19,7 @@ Actualmente trabajo en proyectos personales y en el aprendizaje continuo de nuev
 ---
 
 
-## 🔭 Proyectos open source en los que he contribuido contribuyo
+## 🔭 Proyectos open source en los que he contribuido 
 
 - **[Dolphin](https://github.com/Alberto02003/Dolphin.git)** — Modelo multimodal de ByteDance para análisis de documentos mediante un enfoque "análisis-luego-parseo". Utiliza Vision Language Models basados en Swin Transformer para extraer texto, tablas, fórmulas y figuras de imágenes de documentos, generando salidas en JSON y Markdown.Contribuyendo con una interfaz web en Flask.
 
